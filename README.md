@@ -11,7 +11,7 @@
   - [Chapter 5 — Loops & Iterations / Циклы и итерации](https://tinyurl.com/bdhuwcub)  
   - [Chapter 6 — Strings / Строки](https://tinyurl.com/8at8uwt6)  
   - [Chapter 7 — Files / Файлы](https://tinyurl.com/bdfth32h)  
-  - [Chapter 8 — Lists / Списки](https://tinyurl.com/knfwxm5x)  
+  - [Chapter 8 — Lists / Списки](https://tinyurl.com/59zkueea)  
   - [Chapter 9 — Dictionaries / Словари](https://tinyurl.com/mwmmwvrr)  
   - [Chapter 10 — Tuples / Кортежи](https://tinyurl.com/tc9c5c5c)  
   - [Chapter 11 — Regular Expressions / Регулярные выражения](https://tinyurl.com/2yz2bpy3)  
