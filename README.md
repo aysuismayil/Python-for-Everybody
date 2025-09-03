@@ -2,27 +2,27 @@
 # Python-for-Everybody
 ````markdown
 # 📘 Python for Everybody — Notes (University of Michigan)
-
+````
 ## 📑 Table of Contents / Оглавление  
-- [Overview / Обзор](https://github.com/aysuismayil/Python-for-Everybody/blob/main/README.md#:~:text=%D0%B8%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%20%0A%0A%2D%2D%2D-,Chapter%201%20%E2%80%94%20Why%20Program%3F%20/%20%D0%97%D0%B0%D1%87%D0%B5%D0%BC%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%3F,-English%3A%20Programming)  
-- [Chapters / Главы](#-chapters--главы)  
-  - [Chapter 1 — Why Program? / Зачем программировать?](#chapter-1--why-program--зачем-программировать)  
-  - [Chapter 2 — Variables & Expressions / Переменные и выражения](#chapter-2--variables--expressions--переменные-и-выражения)  
-  - [Chapter 3 — Conditional Execution / Условные операторы](#chapter-3--conditional-execution--условные-операторы)  
-  - [Chapter 4 — Functions / Функции](#chapter-4--functions--функции)  
-  - [Chapter 5 — Loops & Iterations / Циклы и итерации](#chapter-5--loops--iterations--циклы-и-итерации)  
-  - [Chapter 6 — Strings / Строки](#chapter-6--strings--строки)  
-  - [Chapter 7 — Files / Файлы](#chapter-7--files--файлы)  
-  - [Chapter 8 — Lists / Списки](#chapter-8--lists--списки)  
-  - [Chapter 9 — Dictionaries / Словари](#chapter-9--dictionaries--словарии)  
-  - [Chapter 10 — Tuples / Кортежи](#chapter-10--tuples--кортежи)  
-  - [Chapter 11 — Regular Expressions / Регулярные выражения](#chapter-11--regular-expressions--регулярные-выражения)  
-  - [Chapter 12 — Network Programming / Работа с сетью](#chapter-12--network-programming--работа-с-сетью)  
-  - [Chapter 13 — Using Web Services / Веб-сервисы](#chapter-13--using-web-services--веб-сервисы)  
-  - [Chapter 14 — Object-Oriented Programming / Объектно-ориентированное-программирование](#chapter-14--object-oriented-programming--объектно-ориентированное-программирование)  
-  - [Chapter 15 — Databases / Базы данных](#chapter-15--databases--базы-данных)  
-  - [Chapter 16 — Data Visualization / Визуализация данных](#chapter-16--data-visualization--визуализация-данных)  
-- [Resources / Ресурсы](#-resources--ресурсы)  
+- [Overview / Обзор](#overview)  
+- [Chapters / Главы](#chapters)  
+  - [Chapter 1 — Why Program? / Зачем программировать?](#chapter1)  
+  - [Chapter 2 — Variables & Expressions / Переменные и выражения](#chapter2)  
+  - [Chapter 3 — Conditional Execution / Условные операторы](#chapter3)  
+  - [Chapter 4 — Functions / Функции](#chapter4)  
+  - [Chapter 5 — Loops & Iterations / Циклы и итерации](#chapter5)  
+  - [Chapter 6 — Strings / Строки](#chapter6)  
+  - [Chapter 7 — Files / Файлы](#chapter7)  
+  - [Chapter 8 — Lists / Списки](#chapter8)  
+  - [Chapter 9 — Dictionaries / Словари](#chapter9)  
+  - [Chapter 10 — Tuples / Кортежи](#chapter10)  
+  - [Chapter 11 — Regular Expressions / Регулярные выражения](#chapter11)  
+  - [Chapter 12 — Network Programming / Работа с сетью](#chapter12)  
+  - [Chapter 13 — Using Web Services / Веб-сервисы](#chapter13)  
+  - [Chapter 14 — Object-Oriented Programming / Объектно-ориентированное программирование](#chapter14)  
+  - [Chapter 15 — Databases / Базы данных](#chapter15)  
+  - [Chapter 16 — Data Visualization / Визуализация данных](#chapter16)  
+- [Resources / Ресурсы](#resources)  
 
 ---
 
@@ -36,7 +36,6 @@ This course introduces Python basics: variables, expressions, conditionals, func
 Курс знакомит с основами Python: переменные, выражения, условия, функции, строки, файлы, списки, словари, кортежи, регулярные выражения, веб, базы данных и визуализация.  
 
 ---
-````
 
 # Chapter 1 — Why Program? / Зачем программировать?  
 **English:** Programming allows us to automate tasks and solve problems.  
