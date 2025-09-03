@@ -15,7 +15,7 @@
   - [Chapter 9 — Dictionaries / Словари](https://tinyurl.com/mwmmwvrr)  
   - [Chapter 10 — Tuples / Кортежи](https://tinyurl.com/tc9c5c5c)  
   - [Chapter 11 — Regular Expressions / Регулярные выражения](https://tinyurl.com/2yz2bpy3)  
-  - [Chapter 12 — Network Programming / Работа с сетью](#chapter12)  
+  - [Chapter 12 — Network Programming / Работа с сетью](https://tinyurl.com/4jhm3bry)  
   - [Chapter 13 — Using Web Services / Веб-сервисы](#chapter13)  
   - [Chapter 14 — Object-Oriented Programming / Объектно-ориентированное программирование](#chapter14)  
   - [Chapter 15 — Databases / Базы данных](#chapter15)  
