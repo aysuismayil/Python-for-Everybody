@@ -7,7 +7,7 @@
   - [Chapter 1 — Why Program? / Зачем программировать?](https://github.com/aysuismayil/Python-for-Everybody/blob/main/README.md#chapter14:~:text=%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B8%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.-,Chapter%201%20%E2%80%94%20Why%20Program%3F%20/%20%D0%97%D0%B0%D1%87%D0%B5%D0%BC%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%3F,-English%3A%20Programming)  
   - [Chapter 2 — Variables & Expressions / Переменные и выражения](https://github.com/aysuismayil/Python-for-Everybody/blob/main/README.md#chapter14:~:text=Hello%2C%20world!%22-,Chapter%202%20%E2%80%94%20Variables%20%26%20Expressions%20/%20%D0%9F%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%B8%20%D0%B2%D1%8B%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F,-English%3A%20Variables)
   - [Chapter 3 — Conditional Execution / Условные операторы](https://github.com/aysuismayil/Python-for-Everybody/blob/main/README.md#chapter14:~:text=(result)-,Chapter%203%20%E2%80%94%20Conditional%20Execution%20/%20%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B,-English%3A%20Use)  
-  - [Chapter 4 — Functions / Функции](https://github.com/aysuismayil/Python-for-Everybody/blob/main/README.md#chapter14:~:text=%22Underage%22-,Chapter%204%20%E2%80%94%20Functions%20/%20%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%B8,-English%3A%20Functions)  
+  - [Chapter 4 — Functions / Функции](https://tinyurl.com/bdzh7wr8)  
   - [Chapter 5 — Loops & Iterations / Циклы и итерации](#chapter5)  
   - [Chapter 6 — Strings / Строки](#chapter6)  
   - [Chapter 7 — Files / Файлы](#chapter7)  
