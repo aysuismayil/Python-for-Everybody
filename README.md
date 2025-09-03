@@ -20,7 +20,7 @@
   - [Chapter 14 — Object-Oriented Programming / Объектно-ориентированное программирование](https://tinyurl.com/ympemy8y)  
   - [Chapter 15 — Databases / Базы данных](https://tinyurl.com/yte97atz)  
   - [Chapter 16 — Data Visualization / Визуализация данных](https://tinyurl.com/4tts8fhj)  
-- [Resources / Ресурсы](#resources)  
+- [Resources / Ресурсы](https://tinyurl.com/ymb68fja)  
 
 ---
 
