@@ -4,7 +4,7 @@
 # 📘 Python for Everybody — Notes (University of Michigan)
 
 ## 📑 Table of Contents / Оглавление  
-- [Overview / Обзор](#-overview--обзор)  
+- [Overview / Обзор](https://github.com/aysuismayil/Python-for-Everybody/blob/main/README.md#:~:text=%D0%B8%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F.%20%20%0A%0A%2D%2D%2D-,Chapter%201%20%E2%80%94%20Why%20Program%3F%20/%20%D0%97%D0%B0%D1%87%D0%B5%D0%BC%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%3F,-English%3A%20Programming)  
 - [Chapters / Главы](#-chapters--главы)  
   - [Chapter 1 — Why Program? / Зачем программировать?](#chapter-1--why-program--зачем-программировать)  
   - [Chapter 2 — Variables & Expressions / Переменные и выражения](#chapter-2--variables--expressions--переменные-и-выражения)  
