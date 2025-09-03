@@ -13,7 +13,7 @@
   - [Chapter 7 — Files / Файлы](https://tinyurl.com/bdfth32h)  
   - [Chapter 8 — Lists / Списки](https://tinyurl.com/59zkueea)  
   - [Chapter 9 — Dictionaries / Словари](https://github.com/aysuismayil/Python-for-Everybody/blob/main/README.md#:~:text=(nums)-,Chapter%209%20%E2%80%94%20Dictionaries%20/%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D0%B8,-English%3A%20Dictionaries)  
-  - [Chapter 10 — Tuples / Кортежи]([https://tinyurl.com/tc9c5c5c](https://github.com/aysuismayil/Python-for-Everybody/blob/main/README.md#:~:text=%22name%22%5D)-,Chapter%2010%20%E2%80%94%20Tuples%20/%20%D0%9A%D0%BE%D1%80%D1%82%D0%B5%D0%B6%D0%B8,-English%3A%20Tuples))  
+  - [Chapter 10 — Tuples / Кортежи](https://tinyurl.com/tc9c5c5c)  
   - [Chapter 11 — Regular Expressions / Регулярные выражения](https://tinyurl.com/2yz2bpy3)  
   - [Chapter 12 — Network Programming / Работа с сетью](https://tinyurl.com/4jhm3bry)  
   - [Chapter 13 — Using Web Services / Веб-сервисы](https://tinyurl.com/3jjsvzes)  
