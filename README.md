@@ -10,7 +10,7 @@
   - [Chapter 4 — Functions / Функции](https://tinyurl.com/bdzh7wr8)  
   - [Chapter 5 — Loops & Iterations / Циклы и итерации](https://tinyurl.com/bdhuwcub)  
   - [Chapter 6 — Strings / Строки](https://tinyurl.com/8at8uwt6)  
-  - [Chapter 7 — Files / Файлы](#chapter7)  
+  - [Chapter 7 — Files / Файлы](https://tinyurl.com/bdfth32h)  
   - [Chapter 8 — Lists / Списки](#chapter8)  
   - [Chapter 9 — Dictionaries / Словари](#chapter9)  
   - [Chapter 10 — Tuples / Кортежи](#chapter10)  
