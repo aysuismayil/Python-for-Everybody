@@ -8,7 +8,7 @@
   - [Chapter 2 — Variables & Expressions / Переменные и выражения](https://tinyurl.com/2nhcacuy)
   - [Chapter 3 — Conditional Execution / Условные операторы](https://github.com/aysuismayil/Python-for-Everybody/blob/main/README.md#chapter14:~:text=(result)-,Chapter%203%20%E2%80%94%20Conditional%20Execution%20/%20%D0%A3%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B,-English%3A%20Use)  
   - [Chapter 4 — Functions / Функции](https://tinyurl.com/bdzh7wr8)  
-  - [Chapter 5 — Loops & Iterations / Циклы и итерации](#chapter5)  
+  - [Chapter 5 — Loops & Iterations / Циклы и итерации](https://tinyurl.com/bdhuwcub)  
   - [Chapter 6 — Strings / Строки](#chapter6)  
   - [Chapter 7 — Files / Файлы](#chapter7)  
   - [Chapter 8 — Lists / Списки](#chapter8)  
