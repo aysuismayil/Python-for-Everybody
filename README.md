@@ -18,7 +18,7 @@
   - [Chapter 12 — Network Programming / Работа с сетью](https://tinyurl.com/4jhm3bry)  
   - [Chapter 13 — Using Web Services / Веб-сервисы](https://tinyurl.com/3jjsvzes)  
   - [Chapter 14 — Object-Oriented Programming / Объектно-ориентированное программирование](https://tinyurl.com/ympemy8y)  
-  - [Chapter 15 — Databases / Базы данных](#chapter15)  
+  - [Chapter 15 — Databases / Базы данных](https://tinyurl.com/yte97atz)  
   - [Chapter 16 — Data Visualization / Визуализация данных](#chapter16)  
 - [Resources / Ресурсы](#resources)  
 
